@@ -1,4 +1,12 @@
 DATASTRUCTURES
 ===
 
-* Stack
+[*] Stack
+	- push
+	- pop
+	- peek
+	- is_empty
+	- size
+[ ] Queue 
+[ ] Tree
+[ ] Graph
